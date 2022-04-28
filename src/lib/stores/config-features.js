@@ -8,7 +8,7 @@ export const config = {
   "scaleBarAvailable": true, // true or false
   "legendAvailable": true, // true or false
   "textSourceAvailable": true, // true or false
-  "textNoteAvailable": false, // true or false
+  "textNoteAvailable": true, // true or false
   "textDataAccessAvailable": true, // true or false
   "legend1Color": "#cad1d9",
   "legend2Color": "red",
