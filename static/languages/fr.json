@@ -1,12 +1,12 @@
 {
-  "heading": "Part du gaz russe dans les importations nationales extra-UE des États de l'UE, premier semestre 2021",
-  "subheading": "part (%) des échanges en valeur",
+  "heading": "Dépendance des États membres de l'UE vis-à-vis du gaz russe",
+  "subheading": "Part du gaz russe dans les importations nationales extra-UE des États de l'UE, premier semestre 2021",
   "legend1": "Pays hors UE",
   "tooltip1": "% des échanges en valeur",
   "textSourceDescription": "La source",
   "textSource": "Base de données d'Eurostat (Comtex) et estimations d'Eurostat",
   "textNoteDescription": "Noter",
-  "textNote": "Ajouter une phrase sur les différentes plages de classe...0-25, 25-50%",
+  "textNote": "Ajouter une phrase sur les différentes plages de classes...0-25, 25-50%",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
