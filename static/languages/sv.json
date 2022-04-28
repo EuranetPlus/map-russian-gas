@@ -1,10 +1,12 @@
 {
-  "heading": "Andel rysk gas i nationell import utanför EU från EU-stater, första halvåret 2021",
-  "subheading": "andel (%) av handeln i värde",
+  "heading": "EU-ländernas beroende av rysk gas",
+  "subheading": "Andel rysk gas i nationell import utanför EU från EU-stater, första halvåret 2021",
   "legend1": "Länder utanför EU",
   "tooltip1": "% av handeln i värde",
   "textSourceDescription": "Källa",
   "textSource": "Eurostats databas (Comtex) och Eurostats uppskattningar",
+  "textNoteDescription": "Notera",
+  "textNote": "Lägg till en mening om de olika klassintervallen...0-25, 25-50 %",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

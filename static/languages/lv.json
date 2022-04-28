@@ -1,10 +1,12 @@
 {
-  "heading": "Krievijas gāzes īpatsvars ES valstu nacionālajā importā ārpus ES, 2021. gada pirmais semestris",
-  "subheading": "daļa (%) no tirdzniecības vērtības",
+  "heading": "ES dalībvalstu atkarība no Krievijas gāzes",
+  "subheading": "Krievijas gāzes īpatsvars ES valstu nacionālajā importā ārpus ES, 2021. gada pirmais semestris",
   "legend1": "Valstis, kas nav ES dalībvalstis",
   "tooltip1": "% no tirdzniecības vērtības",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat datubāze (Comtex) un Eurostat aplēses",
+  "textNoteDescription": "Piezīme",
+  "textNote": "Pievienojiet teikumu par dažādiem klases diapazoniem...0-25, 25-50%",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

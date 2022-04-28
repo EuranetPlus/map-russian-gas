@@ -1,10 +1,12 @@
 {
-  "heading": "Anteil des russischen Gases an den nationalen Extra-EU-Importen der EU-Staaten, erstes Halbjahr 2021",
-  "subheading": "Anteil (%) am Handelswert",
+  "heading": "Abhängigkeit der EU-Mitgliedstaaten von russischem Gas",
+  "subheading": "Anteil des russischen Gases an den nationalen Extra-EU-Importen der EU-Staaten, erstes Halbjahr 2021",
   "legend1": "Nicht-EU-Länder",
   "tooltip1": "% des Handelswertes",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat-Datenbank (Comtex) und Eurostat-Schätzungen",
+  "textNoteDescription": "Notiz",
+  "textNote": "Fügen Sie einen Satz zu den verschiedenen Klassenbereichen hinzu ... 0-25, 25-50%",
   "textDataAccess": "Greifen Sie auf die Daten zu",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

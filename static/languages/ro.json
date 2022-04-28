@@ -1,10 +1,12 @@
 {
-  "heading": "Ponderea gazului rusesc în importurile naționale extra-UE ale statelor UE, primul semestru 2021",
-  "subheading": "cota (%) din comerț în valoare",
+  "heading": "Dependența statelor membre UE de gazul rusesc",
+  "subheading": "Ponderea gazului rusesc în importurile naționale extra-UE ale statelor UE, primul semestru 2021",
   "legend1": "Țări non-UE",
   "tooltip1": "% din valoarea comerțului",
   "textSourceDescription": "Sursă",
   "textSource": "Baza de date Eurostat (Comtex) și estimări Eurostat",
+  "textNoteDescription": "Notă",
+  "textNote": "Adăugați o propoziție în diferitele intervale de clasă... 0-25, 25-50%",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

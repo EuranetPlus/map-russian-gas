@@ -1,10 +1,12 @@
 {
-  "heading": "Venäläisen kaasun osuus EU-maiden kansallisesta EU:n ulkopuolisesta tuonnista, ensimmäinen puolisko 2021",
-  "subheading": "osuus (%) kaupan arvosta",
+  "heading": "EU-maiden riippuvuus Venäjän kaasusta",
+  "subheading": "Venäläisen kaasun osuus EU-maiden kansallisesta EU:n ulkopuolisesta tuonnista, ensimmäinen puolisko 2021",
   "legend1": "EU:n ulkopuoliset maat",
   "tooltip1": "% kaupan arvosta",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostatin tietokanta (Comtex) ja Eurostatin arviot",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Lisää lause eri luokka-alueille...0-25, 25-50%",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

@@ -1,10 +1,12 @@
 {
-  "heading": "Podiel ruského plynu na vnútroštátnom dovoze štátov EÚ mimo EÚ, prvý polrok 2021",
-  "subheading": "podiel (%) z obchodu v hodnote",
+  "heading": "Závislosť členských štátov EÚ na ruskom plyne",
+  "subheading": "Podiel ruského plynu na vnútroštátnom dovoze štátov EÚ mimo EÚ, prvý polrok 2021",
   "legend1": "Krajiny mimo EÚ",
   "tooltip1": "% hodnoty obchodu",
   "textSourceDescription": "Zdroj",
   "textSource": "Databáza Eurostatu (Comtex) a odhady Eurostatu",
+  "textNoteDescription": "Poznámka",
+  "textNote": "Pridajte vetu v rozsahu rôznych tried...0-25, 25-50%",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

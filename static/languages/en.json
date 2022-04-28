@@ -1,10 +1,12 @@
 {
-  "heading": "Share of Russian gas in national extra-EU imports of EU states, first semester 2021",
-  "subheading": "share (%) of trade in value",
+  "heading": "Dependency of EU member states on Russian gas",
+  "subheading": "Share of Russian gas in national extra-EU imports of EU states, first semester 2021",
   "legend1": "Non-EU countries",
   "tooltip1": "% of trade in value",
   "textSourceDescription": "Source",
   "textSource": "Eurostat database (Comtex) and Eurostat estimates",
+  "textNoteDescription": "Note",
+  "textNote": "Add a sentence on the dfifferent class ranges...0-25, 25-50%",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
