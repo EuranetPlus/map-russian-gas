@@ -1,12 +1,10 @@
 {
-    "heading": "Tháinig méadú ar chaiteachas oideachais ar fud thíortha uile an AE",
-    "subheading": "Caiteachas an rialtais ghinearálta ar chosaint mhíleata mar chéatadán den OTI i dtíortha an Aontais Eorpaigh in 2020",
-    "legend1": "Tíortha neamh-AE",
-    "tooltip1": "% de OTI",
-    "textSourceDescription": "Foinse",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Nóta",
-    "textNote": "Caiteachas rialtais de réir feidhme agus cineál COFOG (aicmiú UNSD ar fheidhmeanna an rialtais, arna mhacasamhlú in CCE2010).",
-    "textDataAccess": "Faigh rochtain ar na sonraí",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=ga"
+  "heading": "Sciar de ghás na Rúise in allmhairí náisiúnta lasmuigh den AE de stáit an AE, an chéad seimeastar 2021",
+  "subheading": "sciar (%) den trádáil i luach",
+  "legend1": "Tíortha neamh-AE",
+  "tooltip1": "% de thrádáil i luach",
+  "textSourceDescription": "Foinse",
+  "textSource": "Bunachar sonraí Eurostat (Comtex) agus meastacháin Eurostat",
+  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

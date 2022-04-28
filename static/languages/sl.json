@@ -1,12 +1,10 @@
 {
-    "heading": "Izdatki za izobraževanje so se povečali v vseh državah EU",
-    "subheading": "Državni izdatki za vojaško obrambo kot odstotek BDP v državah Evropske unije leta 2020",
-    "legend1": "Države, ki niso članice EU",
-    "tooltip1": "% BDP",
-    "textSourceDescription": "Vir",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Opomba",
-    "textNote": "Državni izdatki po funkciji in vrsti COFOG (UNSD klasifikacija funkcij vlade, ponovljena v ESR 2010).",
-    "textDataAccess": "Dostop do podatkov",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Delež ruskega plina v nacionalnem uvozu držav EU zunaj EU, prvo polletje 2021",
+  "subheading": "delež (%) vrednosti trgovanja",
+  "legend1": "Države, ki niso članice EU",
+  "tooltip1": "% trgovanja v vrednosti",
+  "textSourceDescription": "Vir",
+  "textSource": "Baza podatkov Eurostata (Comtex) in ocene Eurostata",
+  "textDataAccess": "Dostop do podatkov",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_member_State,_first_semester_2021.png"
 }

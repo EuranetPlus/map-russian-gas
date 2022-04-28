@@ -1,12 +1,10 @@
 {
-    "heading": "Onderwijsuitgaven stijgen in alle EU-landen",
-    "subheading": "Algemene overheidsuitgaven voor militaire defensie als percentage van het BBP in landen van de Europese Unie in 2020",
-    "legend1": "Niet-EU-landen",
-    "tooltip1": "% van het BBP",
-    "textSourceDescription": "Bron",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Opmerking",
-    "textNote": "Overheidsuitgaven volgens COFOG (UNSD-classificatie van overheidsfuncties, gerepliceerd in ESR2010) functie en type.",
-    "textDataAccess": "Toegang tot de gegevens",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Aandeel Russisch gas in nationale extra-EU-invoer van EU-landen, eerste semester 2021",
+  "subheading": "aandeel (%) van de handel in waarde",
+  "legend1": "Niet-EU-landen",
+  "tooltip1": "% van inruilwaarde",
+  "textSourceDescription": "Bron",
+  "textSource": "Eurostat-database (Comtex) en schattingen van Eurostat",
+  "textDataAccess": "Toegang tot de gegevens",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

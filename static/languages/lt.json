@@ -1,12 +1,10 @@
 {
-    "heading": "Išlaidos švietimui visose ES šalyse",
-    "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
-    "legend1": "ES nepriklausančios šalys",
-    "tooltip1": "% BVP",
-    "textSourceDescription": "Šaltinis",
-    "textSource": "Eurostatas",
-    "textNoteDescription": "Pastaba",
-    "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
-    "textDataAccess": "Pasiekite duomenis",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Rusijos dujų dalis nacionaliniame ES šalių importe už ES ribų, 2021 m. pirmasis pusmetis",
+  "subheading": "prekybos vertės dalis (%)",
+  "legend1": "ES nepriklausančios šalys",
+  "tooltip1": "% prekybos vertės",
+  "textSourceDescription": "Šaltinis",
+  "textSource": "Eurostato duomenų bazė (Comtex) ir Eurostato įverčiai",
+  "textDataAccess": "Pasiekite duomenis",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

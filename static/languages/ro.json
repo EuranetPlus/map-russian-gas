@@ -1,12 +1,10 @@
 {
-    "heading": "Cheltuielile pentru educație în toate țările UE",
-    "subheading": "Cheltuielile publice generale pentru apărarea militară ca procent din PIB în țările Uniunii Europene în 2020",
-    "legend1": "Țări non-UE",
-    "tooltip1": "% din PIB",
-    "textSourceDescription": "Sursă",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Notă",
-    "textNote": "Cheltuielile guvernamentale după funcția și tipul COFOG (clasificarea UNSD a funcțiilor guvernamentale, replicată în ESA2010).",
-    "textDataAccess": "Accesați datele",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Ponderea gazului rusesc în importurile naționale extra-UE ale statelor UE, primul semestru 2021",
+  "subheading": "cota (%) din comerț în valoare",
+  "legend1": "Țări non-UE",
+  "tooltip1": "% din valoarea comerțului",
+  "textSourceDescription": "Sursă",
+  "textSource": "Baza de date Eurostat (Comtex) și estimări Eurostat",
+  "textDataAccess": "Accesați datele",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

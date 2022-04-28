@@ -1,12 +1,10 @@
 {
-    "heading": "El gasto en educación aumenta en todos los países de la UE",
-    "subheading": "Gasto del gobierno general en defensa militar como porcentaje del PIB en países de la Unión Europea en 2020",
-    "legend1": "Países no pertenecientes a la UE",
-    "tooltip1": "% del PIB",
-    "textSourceDescription": "Fuente",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Nota",
-    "textNote": "Gasto público por COFOG (clasificación UNSD de funciones de gobierno, replicado en ESA2010) función y tipo.",
-    "textDataAccess": "Accede a los datos",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Participación del gas ruso en las importaciones nacionales extracomunitarias de los estados de la UE, primer semestre de 2021",
+  "subheading": "participación (%) del comercio en valor",
+  "legend1": "Países no pertenecientes a la UE",
+  "tooltip1": "% del comercio en valor",
+  "textSourceDescription": "Fuente",
+  "textSource": "Base de datos de Eurostat (Comtex) y estimaciones de Eurostat",
+  "textDataAccess": "Accede a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

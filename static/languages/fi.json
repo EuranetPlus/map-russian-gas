@@ -1,12 +1,10 @@
 {
-    "heading": "Koulutusmenot kasvavat kaikissa EU-maissa",
-    "subheading": "Julkiset menot sotilaalliseen puolustukseen suhteessa BKT:hen Euroopan unionin maissa vuonna 2020",
-    "legend1": "EU:n ulkopuoliset maat",
-    "tooltip1": "% BKT:sta",
-    "textSourceDescription": "Lähde",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Huomautus",
-    "textNote": "Julkiset menot COFOG:n (UNSD:n julkishallinnon toimintojen luokittelu, jäljennetty EKT2010:ssä) toiminnon ja tyypin mukaan.",
-    "textDataAccess": "Käytä tietoja",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=fi"
+  "heading": "Venäläisen kaasun osuus EU-maiden kansallisesta EU:n ulkopuolisesta tuonnista, ensimmäinen puolisko 2021",
+  "subheading": "osuus (%) kaupan arvosta",
+  "legend1": "EU:n ulkopuoliset maat",
+  "tooltip1": "% kaupan arvosta",
+  "textSourceDescription": "Lähde",
+  "textSource": "Eurostatin tietokanta (Comtex) ja Eurostatin arviot",
+  "textDataAccess": "Käytä tietoja",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

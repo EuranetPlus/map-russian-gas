@@ -1,12 +1,10 @@
 {
-    "heading": "Разходите за образование се увеличават във всички страни от ЕС",
-    "subheading": "Държавните разходи за военна отбрана като процент от БВП в страните от Европейския съюз през 2020 г.",
-    "legend1": "Страни извън ЕС",
-    "tooltip1": "% от БВП",
-    "textSourceDescription": "Източник",
-    "textSource": "Евростат",
-    "textNoteDescription": "Забележка",
-    "textNote": "Държавни разходи по COFOG (класификация на функциите на правителството на UNSD, възпроизведена в ESA2010) функция и вид.",
-    "textDataAccess": "Достъп до данните",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Дял на руския газ в националния внос извън ЕС на държавите от ЕС, първи семестър 2021 г",
+  "subheading": "дял (%) от търговията в стойност",
+  "legend1": "Страни извън ЕС",
+  "tooltip1": "% от търговията в стойност",
+  "textSourceDescription": "Източник",
+  "textSource": "База данни на Евростат (Comtex) и оценки на Евростат",
+  "textDataAccess": "Достъп до данните",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

@@ -1,12 +1,10 @@
 {
-    "heading": "Výdaje na vzdělávání ve všech zemích EU",
-    "subheading": "Vládní výdaje na vojenskou obranu jako procento HDP v zemích Evropské unie v roce 2020",
-    "legend1": "Země mimo EU",
-    "tooltip1": "% HDP",
-    "textSourceDescription": "Zdroj",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Poznámka",
-    "textNote": "Vládní výdaje podle funkce a typu COFOG (klasifikace funkcí vlády UNSD, replikovaná v ESA2010).",
-    "textDataAccess": "Přístup k datům",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs"
+  "heading": "Podíl ruského plynu na vnitrostátním dovozu států EU mimo EU, první pololetí 2021",
+  "subheading": "podíl (%) obchodu v hodnotě",
+  "legend1": "Země mimo EU",
+  "tooltip1": "% hodnoty obchodu",
+  "textSourceDescription": "Zdroj",
+  "textSource": "Databáze Eurostatu (Comtex) a odhady Eurostatu",
+  "textDataAccess": "Přístup k datům",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

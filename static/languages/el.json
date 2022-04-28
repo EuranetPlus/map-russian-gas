@@ -1,12 +1,10 @@
 {
-    "heading": "Αυξάνονται οι δαπάνες για την εκπαίδευση σε όλες τις χώρες της ΕΕ",
-    "subheading": "Δαπάνες γενικής κυβέρνησης για στρατιωτική άμυνα ως ποσοστό του ΑΕΠ στις χώρες της Ευρωπαϊκής Ένωσης το 2020",
-    "legend1": "Χώρες εκτός ΕΕ",
-    "tooltip1": "% του ΑΕΠ",
-    "textSourceDescription": "Πηγή",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Σημείωση",
-    "textNote": "Κρατικές δαπάνες κατά COFOG (ταξινόμηση UNSD των λειτουργιών της κυβέρνησης, που αναπαράγεται στο ESA2010) λειτουργία και τύπος.",
-    "textDataAccess": "Πρόσβαση στα δεδομένα",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Μερίδιο ρωσικού φυσικού αερίου στις εθνικές εισαγωγές εκτός ΕΕ κρατών της ΕΕ, πρώτο εξάμηνο 2021",
+  "subheading": "μερίδιο (%) της συναλλαγής σε αξία",
+  "legend1": "Χώρες εκτός ΕΕ",
+  "tooltip1": "% του εμπορίου σε αξία",
+  "textSourceDescription": "Πηγή",
+  "textSource": "Βάση δεδομένων της Eurostat (Comtex) και εκτιμήσεις της Eurostat",
+  "textDataAccess": "Πρόσβαση στα δεδομένα",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

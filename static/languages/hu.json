@@ -1,12 +1,10 @@
 {
-    "heading": "Az oktatási kiadások az EU összes országában emelkednek",
-    "subheading": "Az államháztartás katonai védelemre fordított kiadásai a GDP százalékában az Európai Unió országaiban 2020-ban",
-    "legend1": "EU-n kívüli országok",
-    "tooltip1": "a GDP %-a",
-    "textSourceDescription": "Forrás",
-    "textSource": "Eurostat",
-    "textNoteDescription": "jegyzet",
-    "textNote": "Kormányzati kiadások COFOG (UNSD Classification of Government Functions, replikálva az ESA2010-ben) funkció és típus szerint.",
-    "textDataAccess": "Hozzáférés az adatokhoz",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Az orosz gáz részesedése az EU-tagállamok EU-n kívüli nemzeti importjából, 2021 első féléve",
+  "subheading": "részesedése (%) a kereskedelem értékében",
+  "legend1": "EU-n kívüli országok",
+  "tooltip1": "a kereskedelem %-a értékben",
+  "textSourceDescription": "Forrás",
+  "textSource": "Eurostat adatbázis (Comtex) és Eurostat becslések",
+  "textDataAccess": "Hozzáférés az adatokhoz",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

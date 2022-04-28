@@ -1,12 +1,10 @@
 {
-    "heading": "Hariduskulud kõigis ELi riikides",
-    "subheading": "Valitsussektori kulutused sõjalisele kaitsele protsendina SKTst Euroopa Liidu riikides 2020. aastal",
-    "legend1": "ELi mittekuuluvad riigid",
-    "tooltip1": "% SKTst",
-    "textSourceDescription": "Allikas",
-    "textSource": "Eurostat",
-    "textNoteDescription": "Märge",
-    "textNote": "Valitsemissektori kulud COFOG-i (UNSD klassifikatsioon valitsusfunktsioonide klassifikatsioonist, korratud ESA2010-s) funktsiooni ja tüübi järgi.",
-    "textDataAccess": "Juurdepääs andmetele",
-    "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "heading": "Vene gaasi osakaal ELi-välises impordis ELi riikides, 2021. aasta esimene poolaasta",
+  "subheading": "osa (%) kaubavahetusest väärtuses",
+  "legend1": "ELi mittekuuluvad riigid",
+  "tooltip1": "% kaubavahetuse väärtusest",
+  "textSourceDescription": "Allikas",
+  "textSource": "Eurostati andmebaas (Comtex) ja Eurostati hinnangud",
+  "textDataAccess": "Juurdepääs andmetele",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
