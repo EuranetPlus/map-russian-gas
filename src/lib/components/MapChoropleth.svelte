@@ -205,6 +205,18 @@
 			tooltipVisible = false;
 		}
 	};
+
+	function getToolTipLabel(value) {
+		if (value == 0.25) {
+			return '0-25';
+		} else if (value == 0.5) {
+			return '25-50';
+		} else if (value == 0.75) {
+			return '50-75';
+		} else if (value == 1) {
+			return '75-100';
+		}
+	}
 </script>
 
 {#if $dataReady}
@@ -245,7 +257,7 @@
 			<div class="tooltip-body space-y-1">
 				{#each tooltip as tip}
 					<div class="values">
-						<span class="font-bold">{formatInt($MOUSE.tooltip.value * 100)}</span>
+						<span class="font-bold">{getToolTipLabel($MOUSE.tooltip.value)}</span>
 						<span>{tip.label}</span>
 					</div>
 				{/each}
