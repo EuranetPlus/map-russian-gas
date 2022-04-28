@@ -5,6 +5,8 @@
   "tooltip1": "% tal-kummerċ fil-valur",
   "textSourceDescription": "Sors",
   "textSource": "Database tal-Eurostat (Comtex) u stimi tal-Eurostat",
+  "textNoteDescription": "Nota",
+  "textNote": "Żid sentenza fuq il-firxiet differenti tal-klassi...0-25, 25-50%",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

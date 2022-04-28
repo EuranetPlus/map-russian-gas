@@ -5,6 +5,8 @@
   "tooltip1": "% av handeln i värde",
   "textSourceDescription": "Källa",
   "textSource": "Eurostats databas (Comtex) och Eurostats uppskattningar",
+  "textNoteDescription": "Notera",
+  "textNote": "Lägg till en mening om de olika klassintervallen...0-25, 25-50 %",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

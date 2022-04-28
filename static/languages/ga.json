@@ -5,6 +5,8 @@
   "tooltip1": "% de thrádáil i luach",
   "textSourceDescription": "Foinse",
   "textSource": "Bunachar sonraí Eurostat (Comtex) agus meastacháin Eurostat",
+  "textNoteDescription": "Nóta",
+  "textNote": "Cuir abairt leis na raonta éagsúla ranga...0-25, 25-50%",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

@@ -5,6 +5,8 @@
   "tooltip1": "% vrijednosti trgovine",
   "textSourceDescription": "Izvor",
   "textSource": "Baza podataka Eurostata (Comtex) i procjene Eurostata",
+  "textNoteDescription": "Bilješka",
+  "textNote": "Dodajte rečenicu u različite raspone klasa...0-25, 25-50%",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

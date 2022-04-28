@@ -5,6 +5,8 @@
   "tooltip1": "% handlu wartością",
   "textSourceDescription": "Źródło",
   "textSource": "Baza danych Eurostatu (Comtex) i szacunki Eurostat",
+  "textNoteDescription": "Notatka",
+  "textNote": "Dodaj zdanie na różnych zakresach klas...0-25, 25-50%",
   "textDataAccess": "Uzyskaj dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
