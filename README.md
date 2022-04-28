@@ -9,13 +9,11 @@ To use the map for a new topic and populate it with new texts and data please fo
 4. Update map with new data: [Updating data](#updating-data)
 5. Publish the new map: [Publish map](#publish-map)
 
-<img width="602" alt="Bildschirmfoto 2022-04-27 um 15 20 30" src="https://user-images.githubusercontent.com/8008434/165527407-9b04b553-b074-4cbf-bc42-5e947a2fd8c3.png">
-
 
 ## Live map
 
 The map is hosted on EuranetPlus' Vercel account and can be viewed here:  
-https://euranet-map-europe.vercel.app/
+https://euranet-map-russian-gas.vercel.app/
 
 ## Embedding the map
 
