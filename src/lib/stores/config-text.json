@@ -1,12 +1,10 @@
 {
-	"heading": "Education spending up across all EU countries",
-	"subheading": "General government expenditure on military defense as a percentage of GDP in countries of the European Union in 2020",
+	"heading": "Share of Russia in national extra EU imports of each Member State, first semester 2021",
+	"subheading": "share (%) of trade in value",
 	"legend1": "Non-EU countries",
-	"tooltip1": "% of GDP",
+	"tooltip1": "% of trade in value",
 	"textSourceDescription": "Source",
-	"textSource": "Eurostat",
-	"textNoteDescription": "Note",
-	"textNote": "Government expenditure by COFOG (UNSD classification of functions of government, replicated in ESA2010) function and type.",
+	"textSource": "Eurostat database (Comtex) and Eurostat estimates",
 	"textDataAccess": "Access the data",
-	"linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+	"linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
