@@ -1,5 +1,5 @@
 export const config = {
-  "mapTitle": "europe", // can be any title, if more than one word use dash, e.g. "income-europe"
+  "mapTitle": "russian-gas", // can be any title, if more than one word use dash, e.g. "income-europe"
   "vercelURL": "https://euranet-map-europe.vercel.app", // a url provided by vercel when deploying a repo manually
   "datasetType": "values", // values or binary
   "headlineAvailable": true, // true or false
@@ -8,7 +8,7 @@ export const config = {
   "scaleBarAvailable": true, // true or false
   "legendAvailable": true, // true or false
   "textSourceAvailable": true, // true or false
-  "textNoteAvailable": true, // true or false
+  "textNoteAvailable": false, // true or false
   "textDataAccessAvailable": true, // true or false
   "legend1Color": "#cad1d9",
   "legend2Color": "red",
