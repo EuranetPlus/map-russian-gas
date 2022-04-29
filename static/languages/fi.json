@@ -6,7 +6,7 @@
   "textSourceDescription": "Lähde",
   "textSource": "Eurostatin tietokanta (Comtex) ja Eurostatin arviot",
   "textNoteDescription": "Huomautus",
-  "textNote": "Lisää lause eri luokka-alueille...0-25, 25-50%",
+  "textNote": "Tarkkoja tietoja ei ole saatavilla. Eurostat antaa tietoja vain Venäjältä tulevan kaasun tuonnin osuudesta (0-25%, 25-50%, 50-75%, 75-100%).",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

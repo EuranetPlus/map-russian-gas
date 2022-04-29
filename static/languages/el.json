@@ -6,7 +6,7 @@
   "textSourceDescription": "Πηγή",
   "textSource": "Βάση δεδομένων της Eurostat (Comtex) και εκτιμήσεις της Eurostat",
   "textNoteDescription": "Σημείωση",
-  "textNote": "Προσθέστε μια πρόταση στα εύρη κλάσεων dfifferent...0-25, 25-50%",
+  "textNote": "Δεν υπάρχουν ακριβή δεδομένα. Η Eurostat παρέχει πληροφορίες μόνο για το ποσοστό των εισαγωγών φυσικού αερίου μιας χώρας που προέρχονται από τη Ρωσία κατά παρένθεση (0-25%, 25-50%, 50-75%, 75-100%)",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

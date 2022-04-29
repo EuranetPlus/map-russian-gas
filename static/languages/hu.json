@@ -6,7 +6,7 @@
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat adatbázis (Comtex) és Eurostat becslések",
   "textNoteDescription": "jegyzet",
-  "textNote": "Adjon hozzá egy mondatot a különböző osztálytartományokhoz...0-25, 25-50%",
+  "textNote": "Pontos adatok nem állnak rendelkezésre. Az Eurostat csak arról ad tájékoztatást, hogy egy ország gázimportjának hányada származik Oroszországból (0-25%, 25-50%, 50-75%, 75-100%).",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

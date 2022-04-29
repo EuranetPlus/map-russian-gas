@@ -6,7 +6,7 @@
   "textSourceDescription": "Avots",
   "textSource": "Eurostat datubāze (Comtex) un Eurostat aplēses",
   "textNoteDescription": "Piezīme",
-  "textNote": "Pievienojiet teikumu par dažādiem klases diapazoniem...0-25, 25-50%",
+  "textNote": "Precīzi dati nav pieejami. Eurostat sniedz informāciju tikai par valsts gāzes importa daļu no Krievijas (0-25%, 25-50%, 50-75%, 75-100%).",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

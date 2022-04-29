@@ -6,7 +6,7 @@
   "textSourceDescription": "Bron",
   "textSource": "Eurostat-database (Comtex) en schattingen van Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Voeg een zin toe aan de verschillende klassenbereiken...0-25, 25-50%",
+  "textNote": "Precieze gegevens zijn niet beschikbaar. Eurostat geeft alleen informatie over het aandeel van de gasinvoer van een land dat uit Rusland komt per schijf (0-25%, 25-50%, 50-75%, 75-100%)",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

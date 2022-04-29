@@ -6,7 +6,7 @@
   "textSourceDescription": "Fonte",
   "textSource": "Base de dados do Eurostat (Comtex) e estimativas do Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Adicione uma frase nos diferentes intervalos de classe...0-25, 25-50%",
+  "textNote": "Dados precisos não estão disponíveis. O Eurostat apenas fornece informações sobre a proporção das importações de gás de um país provenientes da Rússia por faixa (0-25%, 25-50%, 50-75%, 75-100%)",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }

@@ -6,7 +6,7 @@
   "textSourceDescription": "Kilde",
   "textSource": "Eurostats database (Comtex) og Eurostats skøn",
   "textNoteDescription": "Bemærk",
-  "textNote": "Tilføj en sætning om de forskellige klasseintervaller...0-25, 25-50 %",
+  "textNote": "Præcise data er ikke tilgængelige. Eurostat giver kun oplysninger om andelen af et lands gasimport, der kommer fra Rusland i parentes (0-25 %, 25-50 %, 50-75 %, 75-100 %)",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Share_of_Russia_in_national_extra_EU_imports_of_each_Member_State,_first_semester_2021.png"
 }
