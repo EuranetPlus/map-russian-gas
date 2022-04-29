@@ -104,7 +104,8 @@
 				// Set color scale domain and range
 				colorScale.domain(extent(extentArray)).range(schemeBlues[5]);
 				clusters = colorScale.quantiles();
-				scaleMin = min(extentArray);
+				// scaleMin = min(extentArray);
+				scaleMin = 0;
 				scaleMax = max(extentArray);
 			})
 			.catch((error) => console.error('error', error));
