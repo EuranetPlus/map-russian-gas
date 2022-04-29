@@ -64,7 +64,7 @@
 	}
 
 	$: if ($dataReady) {
-		console.log('Country data for map loaded');
+		// console.log('Country data for map loaded');
 		projection.fitExtent(
 			[
 				[paddingMap, paddingMap],
@@ -87,8 +87,13 @@
 		const res = await csv('/data/thematic/data.csv')
 			.then(function (data) {
 				// Parse numbers as integers
+
 				data.forEach(function (d) {
-					d['value'] = +d['value'];
+					if (d.value !== 'null') {
+						d['value'] = +d['value'];
+					} else {
+						d['value'] = null;
+					}
 				});
 
 				let extentArray = data.map((item) => {
@@ -126,21 +131,29 @@
 	});
 
 	function getFill(feature) {
-		if (feature.value) {
-			return colorScale(feature.value);
-		} else {
-			if (feature.properties.isEuMember) {
-				return '#CAD1D9';
+		if (feature.value !== undefined) {
+			// No data, because not in Europe: => value: undefined, e.g. Azerbaijan
+			if (feature.value !== null) {
+				// No data for this EU or non-EU country, because not available  => value: null, e.g. Denmark
+				return colorScale(feature.value);
 			} else {
-				return '#F4F4F4';
+				return '#CAD1D9';
 			}
+		} else if (feature.value == undefined) {
+			return '#F4F4F4';
 		}
 	}
 
 	function getStroke(feature) {
-		if (feature.value) {
-			return 'white';
-		} else {
+		if (feature.value !== undefined) {
+			// No data, because not in Europe: => value: undefined, e.g. Azerbaijan
+			if (feature.value !== null) {
+				// No data for this EU or non-EU country, because not available  => value: null, e.g. Denmark
+				return 'white';
+			} else {
+				return 'white';
+			}
+		} else if (feature.value == undefined) {
 			return '#cdcdcd';
 		}
 	}
