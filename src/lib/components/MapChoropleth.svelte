@@ -132,29 +132,29 @@
 	});
 
 	function getFill(feature) {
+		// No data, because country not in Europe: => value: undefined
 		if (feature.value !== undefined) {
-			// No data, because not in Europe: => value: undefined, e.g. Azerbaijan
+			// No data because not available for this country => value: null
 			if (feature.value !== null) {
-				// No data for this EU or non-EU country, because not available  => value: null, e.g. Denmark
 				return colorScale(feature.value);
 			} else {
 				return '#CAD1D9';
 			}
-		} else if (feature.value == undefined) {
+		} else {
 			return '#F4F4F4';
 		}
 	}
 
 	function getStroke(feature) {
+		// No data, because country not in Europe: => value: undefined
 		if (feature.value !== undefined) {
-			// No data, because not in Europe: => value: undefined, e.g. Azerbaijan
+			// No data because not available for this country => value:
 			if (feature.value !== null) {
-				// No data for this EU or non-EU country, because not available  => value: null, e.g. Denmark
 				return 'white';
 			} else {
 				return 'white';
 			}
-		} else if (feature.value == undefined) {
+		} else {
 			return '#cdcdcd';
 		}
 	}
